@@ -1,0 +1,78 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "65-929-0486",
+  "taxFormId" : "2536280",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0800956",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Denesik-Marvin"
+    },
+    "address" : {
+      "line1" : "426 Satterfield Trail",
+      "city" : "East Millietown",
+      "region" : "CA",
+      "postalCode" : "49116",
+      "unitType" : "Apt",
+      "unitNumber" : "324"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "launa.wyman@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-96-8319",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Billie",
+      "middle" : "Timmy",
+      "last" : "Cartwright"
+    },
+    "businessName" : {
+      "name1" : "Dietrich, Wisoky and Jerde"
+    },
+    "address" : {
+      "line1" : "798 Schiller Passage",
+      "city" : "Lake Joannestad",
+      "region" : "MA",
+      "postalCode" : "65542",
+      "unitType" : "Apt",
+      "unitNumber" : "412"
+    },
+    "email" : "nieves.kirlin@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "620-29645-3",
+  "ltcPremiums" : 200,
+  "insuredSelf" : true,
+  "insuredSpouse" : true,
+  "insured" : {
+    "tin" : "000-12-3456",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "Tegan",
+      "middle" : "Ferdinand",
+      "last" : "Beatty"
+    },
+    "businessName" : {
+      "name1" : "Jakubowski-Breitenberg"
+    },
+    "address" : {
+      "line1" : "89179 Jacobi Trafficway",
+      "city" : "West Merrill",
+      "region" : "MS",
+      "postalCode" : "99306",
+      "unitType" : "Apt",
+      "unitNumber" : "859"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email"
+  }
+}

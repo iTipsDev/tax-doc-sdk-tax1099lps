@@ -1,0 +1,78 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "28-410-3819",
+  "taxFormId" : "3560465",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0800956",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Denesik-Marvin"
+    },
+    "address" : {
+      "line1" : "426 Satterfield Trail",
+      "city" : "East Millietown",
+      "region" : "CA",
+      "postalCode" : "49116",
+      "unitType" : "Apt",
+      "unitNumber" : "324"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "launa.wyman@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-11-4436",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Alvin",
+      "middle" : "Johnathon",
+      "last" : "Graham"
+    },
+    "businessName" : {
+      "name1" : "Larkin-Kiehn"
+    },
+    "address" : {
+      "line1" : "971 Mohammad Lane",
+      "city" : "Lake Carla",
+      "region" : "WY",
+      "postalCode" : "41569",
+      "unitType" : "Apt",
+      "unitNumber" : "497"
+    },
+    "email" : "paulene.vandervort@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "586-16534-4",
+  "ltcPremiums" : 200,
+  "insuredSelf" : true,
+  "insuredSpouse" : true,
+  "insured" : {
+    "tin" : "000-12-3456",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "Agripina",
+      "middle" : "Annice",
+      "last" : "Heidenreich"
+    },
+    "businessName" : {
+      "name1" : "Kulas-Rippin"
+    },
+    "address" : {
+      "line1" : "23378 Beier Harbor",
+      "city" : "Edenhaven",
+      "region" : "FL",
+      "postalCode" : "87138",
+      "unitType" : "Apt",
+      "unitNumber" : "383"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email"
+  }
+}

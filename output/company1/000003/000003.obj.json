@@ -1,0 +1,78 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "80-649-0378",
+  "taxFormId" : "0592926",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0800956",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Denesik-Marvin"
+    },
+    "address" : {
+      "line1" : "426 Satterfield Trail",
+      "city" : "East Millietown",
+      "region" : "CA",
+      "postalCode" : "49116",
+      "unitType" : "Apt",
+      "unitNumber" : "324"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "launa.wyman@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-67-9442",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Jame",
+      "middle" : "Nicholas",
+      "last" : "Moen"
+    },
+    "businessName" : {
+      "name1" : "Parisian, Streich and Greenfelder"
+    },
+    "address" : {
+      "line1" : "2011 Kunde Village",
+      "city" : "East Libby",
+      "region" : "FL",
+      "postalCode" : "48759",
+      "unitType" : "Apt",
+      "unitNumber" : "547"
+    },
+    "email" : "filiberto.herzog@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "595-36662-0",
+  "ltcPremiums" : 200,
+  "insuredSelf" : true,
+  "insuredSpouse" : true,
+  "insured" : {
+    "tin" : "000-12-3456",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "Hershel",
+      "middle" : "Daina",
+      "last" : "Barton"
+    },
+    "businessName" : {
+      "name1" : "Connelly-Casper"
+    },
+    "address" : {
+      "line1" : "8697 Davis Light",
+      "city" : "South Assuntaland",
+      "region" : "OR",
+      "postalCode" : "22097",
+      "unitType" : "Apt",
+      "unitNumber" : "297"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email"
+  }
+}
